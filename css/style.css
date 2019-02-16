@@ -1,0 +1,11 @@
+.red-text {
+	color: red;
+}
+
+.big-size {
+	font-size: 3em;
+}
+
+.content li ~ li {
+	border-top: 1px solid #00f;
+}
